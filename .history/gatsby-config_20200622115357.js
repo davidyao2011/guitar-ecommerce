@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `elc-commerce-site`,
     description: `Get up and running with it.`,
-    author: `David Yao`,
+    author: `@dabit3`,
   },
   plugins: [
     {
