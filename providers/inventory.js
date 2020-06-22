@@ -109,38 +109,38 @@ let inventory = [
     image: "../images/products/fame2.jpg",
     description:
       "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    currentInventory: 14,
+    currentInventory: 19,
   },
 
   {
     categories: ["on sale", "electric"],
     name: "Fender Mustang",
-    price: "300",
+    price: "1300",
     image: "../images/products/ele1.jpg",
     description:
       "Since 1964 the Mustang model has been bringing Fender sound and style to the stage and the studio in the hands of trend-setting players ranging from Nirvana to The 1975. Upgraded with performance-oriented features, this new Mustang sports classic style with modern electronics in an ultra-comfortable short-scale form that’s easy to play all night long.",
     brand: "Fender",
-    currentInventory: 12,
+    currentInventory: 15,
   },
   {
     categories: ["on sale", "electric"],
     name: "Fender Victory",
-    price: "825",
+    price: "1825",
     image: "../images/products/ele2.jpg",
     description:
       "Since 1964 the Mustang model has been bringing Fender sound and style to the stage and the studio in the hands of trend-setting players ranging from Nirvana to The 1975. Upgraded with performance-oriented features, this new Mustang sports classic style with modern electronics in an ultra-comfortable short-scale form that’s easy to play all night long.",
     brand: "Fender",
-    currentInventory: 10,
+    currentInventory: 20,
   },
   {
     categories: ["on sale", "electric"],
     name: "Fender stage classic",
-    price: "720",
+    price: "1720",
     image: "../images/products/ele3.jpg",
     description:
       "Since 1964 the Mustang model has been bringing Fender sound and style to the stage and the studio in the hands of trend-setting players ranging from Nirvana to The 1975. Upgraded with performance-oriented features, this new Mustang sports classic style with modern electronics in an ultra-comfortable short-scale form that’s easy to play all night long.",
     brand: "Fender",
-    currentInventory: 23,
+    currentInventory: 3,
   },
   {
     categories: ["on sale", "electric"],
@@ -155,7 +155,7 @@ let inventory = [
   {
     categories: ["on sale", "electric"],
     name: "Fender Start HSS",
-    price: "1100",
+    price: "1150",
     image: "../images/products/ele5.jpg",
     description:
       "Since 1964 the Mustang model has been bringing Fender sound and style to the stage and the studio in the hands of trend-setting players ranging from Nirvana to The 1975. Upgraded with performance-oriented features, this new Mustang sports classic style with modern electronics in an ultra-comfortable short-scale form that’s easy to play all night long.",
@@ -165,23 +165,23 @@ let inventory = [
   {
     categories: ["on sale", "electric"],
     name: "Start caci Hover",
-    price: "600",
+    price: "1600",
     image: "../images/products/ele6.jpg",
     description:
       "The Sterling by Music Man John Petrucci MAJ100 Majesty RW Ice Crimson Red is the signature model of the Dream Theater guitarist and offers an innovative design that convinces with unlimited playing comfort and versatile sounds of the harder gait. The ergonomic Linde body and free-standing mahogany neck provide unimpeded access to all positions of the fingerboard, while hot humbuckers and the 12dB boost that can be switched on at the amplifier provide plenty of pressure. The Sterling Majesty is completed by an SBMM Modern Tremolo and SBMM Locking tuners.",
     brand: "Sterling",
-    currentInventory: 15,
+    currentInventory: 10,
   },
 
   {
     categories: ["on sale", "electric"],
     name: "Sterling MAX Tone",
-    price: "775",
+    price: "1775",
     image: "../images/products/ele7.jpg",
     description:
       "The Sterling by Music Man John Petrucci MAJ100 Majesty RW Ice Crimson Red is the signature model of the Dream Theater guitarist and offers an innovative design that convinces with unlimited playing comfort and versatile sounds of the harder gait. The ergonomic Linde body and free-standing mahogany neck provide unimpeded access to all positions of the fingerboard, while hot humbuckers and the 12dB boost that can be switched on at the amplifier provide plenty of pressure. The Sterling Majesty is completed by an SBMM Modern Tremolo and SBMM Locking tuners.",
     brand: "Sterling",
-    currentInventory: 44,
+    currentInventory: 3,
   },
   {
     categories: ["on sale", "electric"],
@@ -191,7 +191,7 @@ let inventory = [
     description:
       "The Sterling by Music Man John Petrucci MAJ100 Majesty RW Ice Crimson Red is the signature model of the Dream Theater guitarist and offers an innovative design that convinces with unlimited playing comfort and versatile sounds of the harder gait. The ergonomic Linde body and free-standing mahogany neck provide unimpeded access to all positions of the fingerboard, while hot humbuckers and the 12dB boost that can be switched on at the amplifier provide plenty of pressure. The Sterling Majesty is completed by an SBMM Modern Tremolo and SBMM Locking tuners.",
     brand: "Sterling",
-    currentInventory: 17,
+    currentInventory: 12,
   },
   {
     categories: ["on sale", "electric"],
@@ -201,17 +201,17 @@ let inventory = [
     description:
       "The Sterling by Music Man John Petrucci MAJ100 Majesty RW Ice Crimson Red is the signature model of the Dream Theater guitarist and offers an innovative design that convinces with unlimited playing comfort and versatile sounds of the harder gait. The ergonomic Linde body and free-standing mahogany neck provide unimpeded access to all positions of the fingerboard, while hot humbuckers and the 12dB boost that can be switched on at the amplifier provide plenty of pressure. The Sterling Majesty is completed by an SBMM Modern Tremolo and SBMM Locking tuners.",
     brand: "Sterling",
-    currentInventory: 28,
+    currentInventory: 18,
   },
   {
     categories: ["on sale", "electric"],
     name: "Sterling by Music Man",
-    price: "550",
+    price: "1550",
     image: "../images/products/ele2.jpg",
     description:
       "The Sterling by Music Man John Petrucci MAJ100 Majesty RW Ice Crimson Red is the signature model of the Dream Theater guitarist and offers an innovative design that convinces with unlimited playing comfort and versatile sounds of the harder gait. The ergonomic Linde body and free-standing mahogany neck provide unimpeded access to all positions of the fingerboard, while hot humbuckers and the 12dB boost that can be switched on at the amplifier provide plenty of pressure. The Sterling Majesty is completed by an SBMM Modern Tremolo and SBMM Locking tuners.",
     brand: "Sterling",
-    currentInventory: 31,
+    currentInventory: 11,
   }, // {
 ]
 
