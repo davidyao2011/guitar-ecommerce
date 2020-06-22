@@ -19,7 +19,7 @@ toast.configure( {
   }
 })
 
-const logo = require('../images/logo2.png');
+const logo = require('../images/logo.png');
 
 class Layout extends React.Component {
   render() {

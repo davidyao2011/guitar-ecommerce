@@ -17,7 +17,7 @@ const Home = ({ data: gqlData }) => {
       <CartLink />
       <SEO title="Home" />
       <div className="w-full">
-        <div className="bg-orange-200
+        <div className="bg-orange-300
         lg:h-hero
         p-6 pb-10 smpb-6
         flex lg:flex-row flex-col">
@@ -40,7 +40,7 @@ const Home = ({ data: gqlData }) => {
                 imageSrc={inventory[2].image}
               />
               <div className="absolute
-              w-48 h-48 sm:w-72 sm:h-72 xl:w-120 xl:h-120
+              w-48 h-48 sm:w-72 sm:h-72 xl:w-88 xl:h-88
               bg-white z-0 rounded-full" />
           </div>
         </div>

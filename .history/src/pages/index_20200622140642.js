@@ -17,7 +17,7 @@ const Home = ({ data: gqlData }) => {
       <CartLink />
       <SEO title="Home" />
       <div className="w-full">
-        <div className="bg-orange-200
+        <div className="bg-orange-300
         lg:h-hero
         p-6 pb-10 smpb-6
         flex lg:flex-row flex-col">
@@ -40,7 +40,7 @@ const Home = ({ data: gqlData }) => {
                 imageSrc={inventory[2].image}
               />
               <div className="absolute
-              w-48 h-48 sm:w-72 sm:h-72 xl:w-120 xl:h-120
+              w-48 h-48 sm:w-72 sm:h-72 xl:w-88 xl:h-88
               bg-white z-0 rounded-full" />
           </div>
         </div>
@@ -50,8 +50,8 @@ const Home = ({ data: gqlData }) => {
         <DisplayMedium imageSrc={categories[1].image} subtitle={`${categories[1].itemCount} items`} title={titleIfy(categories[1].name)} link={slugify(categories[1].name)} />
       </div>
       <div className="pt-10 pb-6 flex flex-col items-center">
-        <h2 className="text-4xl mb-3">TRENDING GEAR</h2>
-        <p className="text-gray-600 text-sm">Get more at ELC-guitar online shop.</p>
+        <h2 className="text-4xl mb-3">Trending Now</h2>
+        <p className="text-gray-600 text-sm">Find the perfect piece or accessory to finish off your favorite room in the house.</p>
       </div>
       <div className="my-8 flex flex-col lg:flex-row justify-between">
         <DisplaySmall imageSrc={inventory[0].image} title={inventory[0].name} subtitle={inventory[0].categories[0]} link={slugify(inventory[0].name)} />
