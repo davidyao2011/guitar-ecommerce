@@ -109,7 +109,7 @@ let inventory = [
     image: "../images/products/fame2.jpg",
     description:
       "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    brand: "Fame",
+      brand: 'Fame'
     currentInventory: 19,
   },
 

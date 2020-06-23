@@ -99,7 +99,7 @@ let inventory = [
     image: "../images/products/fame1.jpg",
     description:
       "You know your dad’s incredible vintage bomber jacket? The Nirvana dakota tan leather sofa is that jacket, but in couch form. With super-plush down-filled cushions, a corner-blocked wooden frame, and a leather patina that only gets better with age, the Nirvana will have you looking cool and feeling peaceful every time you take a seat. Looks pretty great with a sheepskin throw, if we may say so. With use, this leather will become softer and more wrinkled and the cushions will take on a lived-in look, like your favorite leather jacket.",
-    brand: "Fame",
+    brand: "Jason Bourne",
     currentInventory: 2,
   },
   {
@@ -109,7 +109,6 @@ let inventory = [
     image: "../images/products/fame2.jpg",
     description:
       "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    brand: "Fame",
     currentInventory: 19,
   },
 

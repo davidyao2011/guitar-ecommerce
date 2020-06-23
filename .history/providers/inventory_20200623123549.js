@@ -1,11 +1,11 @@
 import uuid from "uuid/v4"
-
+import image from '../.'
 let inventory = [
   {
     categories: ["new gears"],
     name: "Taylor GS Mini-e",
     price: "2000",
-    image: "../images/products/taylor1.png",
+    image: "../images/products/couch66.png",
     description:
       "The Taylor GS Mini-e Koa Natural 2016 not only impresses with a unique look featuring Hawaiian Koa, but also with a surprising tonal range and powerful sound, both acoustically and when amplified.",
     brand: "Taylor",
@@ -18,7 +18,7 @@ let inventory = [
     image: "../images/products/taylor2.png",
     description:
       "With the GD11M NS 2 Mahogany Natural Satin presents Takamine an exceptionally open and warm sounding western guitar at a good price-performance ratio. Accordingly, it Dreadnought comes with a body of laminated mahogany and, in combination with a matt finish, provides warm and powerful bass, rich in nuances but striking mid-range and shimmering treble. This makes it Takamine GD11M NS 2 ideal for powerful vocal accompaniment with flatpicking and strumming.",
-    brand: "Takamine",
+    brand: "Jason Bourne",
     currentInventory: 2,
   },
   {
@@ -38,7 +38,7 @@ let inventory = [
     image: "../images/products/taylor3.png",
     description:
       "With the GD11M NS 2 Mahogany Natural Satin presents Takamine an exceptionally open and warm sounding western guitar at a good price-performance ratio. Accordingly, it Dreadnought comes with a body of laminated mahogany and, in combination with a matt finish, provides warm and powerful bass, rich in nuances but striking mid-range and shimmering treble. This makes it Takamine GD11M NS 2 ideal for powerful vocal accompaniment with flatpicking and strumming.",
-    brand: "Takamine",
+    brand: "Jason Bourne",
     currentInventory: 10,
   },
   {
@@ -48,7 +48,7 @@ let inventory = [
     image: "../images/products/takamine1.png",
     description:
       "With the GD11M NS 2 Mahogany Natural Satin presents Takamine an exceptionally open and warm sounding western guitar at a good price-performance ratio. Accordingly, it Dreadnought comes with a body of laminated mahogany and, in combination with a matt finish, provides warm and powerful bass, rich in nuances but striking mid-range and shimmering treble. This makes it Takamine GD11M NS 2 ideal for powerful vocal accompaniment with flatpicking and strumming.",
-    brand: "Taylor",
+    brand: "Jason Bourne",
     currentInventory: 7,
   },
   {
@@ -58,7 +58,7 @@ let inventory = [
     image: "../images/products/takamine2.png",
     description:
       "With the GD11M NS 2 Mahogany Natural Satin presents Takamine an exceptionally open and warm sounding western guitar at a good price-performance ratio. Accordingly, it Dreadnought comes with a body of laminated mahogany and, in combination with a matt finish, provides warm and powerful bass, rich in nuances but striking mid-range and shimmering treble. This makes it Takamine GD11M NS 2 ideal for powerful vocal accompaniment with flatpicking and strumming.",
-    brand: "Taylor",
+    brand: "Jason Bourne",
     currentInventory: 13,
   },
   {
@@ -68,7 +68,7 @@ let inventory = [
     image: "../images/products/takamine3.png",
     description:
       "Aria Delta Player range were developed on 100 series. Dedicated to the delta blues era, The Aria Delta Player range brings you genuine vintage feel at an affordable price. Uncompromised craftsmanship generates pure solid tone and outstanding playability.The new Muddy Brown finish completes the Vintage Vibe.",
-    brand: "Taylor",
+    brand: "Jason Bourne",
     currentInventory: 9,
   },
   {
@@ -78,7 +78,7 @@ let inventory = [
     image: "../images/products/aria1.png",
     description:
       "Aria Delta Player range were developed on 100 series. Dedicated to the delta blues era, The Aria Delta Player range brings you genuine vintage feel at an affordable price. Uncompromised craftsmanship generates pure solid tone and outstanding playability.The new Muddy Brown finish completes the Vintage Vibe.",
-    brand: "Aria",
+    brand: "Jason Bourne",
     currentInventory: 24,
   },
 
@@ -89,7 +89,7 @@ let inventory = [
     image: "../images/products/taylor4.jpg",
     description:
       "Easy to love. The Sven in birch ivory looks cozy and refined, like a sweater that a fancy lady wears on a coastal vacation. This ivory loveseat has a tufted bench seat, loose back pillows and bolsters, solid walnut legs, and is ready to make your apartment the adult oasis you dream of. Nestle it with plants, an ottoman, an accent chair, or 8 dogs. Your call.",
-    brand: "Taylor",
+    brand: "Jason Bourne",
     currentInventory: 43,
   },
   {
@@ -99,7 +99,7 @@ let inventory = [
     image: "../images/products/fame1.jpg",
     description:
       "You know your dad’s incredible vintage bomber jacket? The Nirvana dakota tan leather sofa is that jacket, but in couch form. With super-plush down-filled cushions, a corner-blocked wooden frame, and a leather patina that only gets better with age, the Nirvana will have you looking cool and feeling peaceful every time you take a seat. Looks pretty great with a sheepskin throw, if we may say so. With use, this leather will become softer and more wrinkled and the cushions will take on a lived-in look, like your favorite leather jacket.",
-    brand: "Fame",
+    brand: "Jason Bourne",
     currentInventory: 2,
   },
   {
@@ -109,7 +109,6 @@ let inventory = [
     image: "../images/products/fame2.jpg",
     description:
       "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    brand: "Fame",
     currentInventory: 19,
   },
 
