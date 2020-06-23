@@ -24,10 +24,10 @@ const Home = ({ data: gqlData }) => {
           <div className="pt-4 pl-2 sm:pt-12 sm:pl-12 flex flex-col">
             <Tag
               year="2020"
-              category="ACOUSTIC"
+              category="ACSTIC"
             />
             <Center
-              price="300"
+              price="100"
               title={inventory[2].name}
               link={slugify(inventory[2].name)}
             />

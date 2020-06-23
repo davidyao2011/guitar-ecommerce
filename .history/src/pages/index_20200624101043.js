@@ -24,10 +24,10 @@ const Home = ({ data: gqlData }) => {
           <div className="pt-4 pl-2 sm:pt-12 sm:pl-12 flex flex-col">
             <Tag
               year="2020"
-              category="ACOUSTIC"
+              category="ACCUSTIC"
             />
             <Center
-              price="300"
+              price="100"
               title={inventory[2].name}
               link={slugify(inventory[2].name)}
             />
@@ -50,7 +50,7 @@ const Home = ({ data: gqlData }) => {
         <DisplayMedium imageSrc={categories[1].image} subtitle={`${categories[1].itemCount} items`} title={titleIfy(categories[1].name)} link={slugify(categories[1].name)} />
       </div>
       <div className="pt-10 pb-6 flex flex-col items-center">
-        <h2 className="text-4xl mb-3">TRENDING GEAR</h2>
+        <h2 className="text-4xl mb-3">TRENDING GEARs</h2>
         <p className="text-gray-600 text-sm">Get more at Elc-guitar online shop.</p>
       </div>
       <div className="my-8 flex flex-col lg:flex-row justify-between">

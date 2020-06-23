@@ -48,7 +48,7 @@ class SignUp extends React.Component {
               </div>
             </form>
             <p className="text-center text-gray-500 text-xs">
-              &copy;2020 Elc-ecommerce Guitar Shop.
+              &copy;2020 Elc
             </p>
           </div>
         </div>

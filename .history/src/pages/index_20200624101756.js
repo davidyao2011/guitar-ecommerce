@@ -27,7 +27,7 @@ const Home = ({ data: gqlData }) => {
               category="ACOUSTIC"
             />
             <Center
-              price="300"
+              price="100"
               title={inventory[2].name}
               link={slugify(inventory[2].name)}
             />
