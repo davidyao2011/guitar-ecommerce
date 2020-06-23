@@ -25,7 +25,7 @@ let inventory = [
     categories: ["guitars", "acoustic"],
     name: "Gibson Craving Bird",
     price: "1600",
-    image: "../images/products/carving.png",
+    image: "../images/products/.png",
     description:
       "With the GD11M NS 2 Mahogany Natural Satin presents Takamine an exceptionally open and warm sounding western guitar at a good price-performance ratio. Accordingly, it Dreadnought comes with a body of laminated mahogany and, in combination with a matt finish, provides warm and powerful bass, rich in nuances but striking mid-range and shimmering treble. This makes it Takamine GD11M NS 2 ideal for powerful vocal accompaniment with flatpicking and strumming.",
     brand: "Takamine",

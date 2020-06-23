@@ -1,9 +1,9 @@
 {
-  "name": "guitar-ecommerce",
+  "name": "Elc-ecommerce",
   "private": true,
-  "description": "Guitar online shop",
-  "version": "0.2.0",
-  "author": "David Yao",
+  "description": "An E Commerce starter for Gatsby",
+  "version": "0.1.0",
+  "author": "Nader Dabit <dabit3@gmail.com>",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.0.0-beta.6",
     "@stripe/stripe-js": "^1.0.0-beta.8",
@@ -53,9 +53,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidyao2011/guitar-ecommerce"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional"
   },
   "bugs": {
-    "url": "https://github.com/davidyao2011/guitar-ecommerce/issues"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional/issues"
   }
 }

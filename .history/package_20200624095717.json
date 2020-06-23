@@ -1,5 +1,5 @@
 {
-  "name": "guitar-ecommerce",
+  "name": "elc-ecommerce",
   "private": true,
   "description": "Guitar online shop",
   "version": "0.2.0",
@@ -56,6 +56,6 @@
     "url": "https://github.com/davidyao2011/guitar-ecommerce"
   },
   "bugs": {
-    "url": "https://github.com/davidyao2011/guitar-ecommerce/issues"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional/issues"
   }
 }
